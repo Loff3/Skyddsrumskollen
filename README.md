@@ -1,7 +1,6 @@
 # Skyddsrumskollen
-En gratis, open-source och optimerad alternativ version av MSB's skyddsrumskarta
+En gratis, open-source och optimerad alternativ version av MSB:s skyddsrumskarta
 
-  # Skyddsrumskollen (SDI)
 
   End-to-end geodataplattform för att analysera och visualisera skyddsrumskapacitet i relation till befolkning per tätort i Sverige.
 
