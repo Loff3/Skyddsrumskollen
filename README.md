@@ -20,7 +20,6 @@ En gratis, open-source och optimerad alternativ version av MSB's skyddsrumskarta
   - [Teknikstack](#teknikstack)
   - [Reproducerbarhet](#reproducerbarhet)
   - [Begränsningar](#begränsningar)
-  - [Nästa steg](#nästa-steg)
 
   ---
 
@@ -31,7 +30,6 @@ En gratis, open-source och optimerad alternativ version av MSB's skyddsrumskarta
   - Utvärdera systemets beteende under normal och hög belastning.
 
   ## Arkitektur
-  ![Arkitekturdiagram](docs/images/architecture.png)
 
   **Flöde:**
   `INSPIRE Geoportal -> QGIS (rensning + analys) -> PostgreSQL/PostGIS -> GeoServer (WMS/WFS) -> QGIS/Python/Webb -> JMeter`
